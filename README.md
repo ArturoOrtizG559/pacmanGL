@@ -6,3 +6,4 @@ Classic Pacman created in C++ utilizing FreeGLUT
 - Shannon Welch
 - Erick Corona
 - Karishma Singh
+- Arturo Ortiz
